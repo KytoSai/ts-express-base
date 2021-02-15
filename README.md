@@ -1,8 +1,6 @@
 # Project
 
-## Description
-
-- Base structure for run typescript with nodejs in development enviroment
+Base structure for run typescript with nodejs in development enviroment
 
 ## Feature
 
@@ -14,15 +12,13 @@
 
 ## Installation
 
-- Run:
-
 ```bash
 npm install
 ```
 
 ## Usage
 
-- Run below command for start development:
+Run below command for start development:
 
 ```bash
 npm run dev
